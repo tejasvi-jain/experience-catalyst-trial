@@ -1,0 +1,19 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "createdDate": "2025-12-18",
+  "purpose": "Feature columns with images, headings, bullet lists, and links",
+  "visualCharacteristics": {
+    "columnCount": 3,
+    "layout": "3-column side-by-side",
+    "columnStructure": "Image + heading + bullet list + link",
+    "imagePosition": "Top of each column"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 5,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

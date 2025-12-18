@@ -1,0 +1,19 @@
+{
+  "variantName": "cards-content",
+  "baseBlock": "cards",
+  "createdDate": "2025-12-18",
+  "purpose": "Text-focused cards without images for content links",
+  "visualCharacteristics": {
+    "cardCount": 3,
+    "layout": "3-column grid",
+    "cardStructure": "Heading + text + link (no images)",
+    "styling": "Minimal, text-focused"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 2,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

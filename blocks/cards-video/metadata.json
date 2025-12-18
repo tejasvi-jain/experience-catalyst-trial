@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-video",
+  "baseBlock": "cards",
+  "createdDate": "2025-12-18",
+  "purpose": "Video cards with thumbnails and play button overlays",
+  "visualCharacteristics": {
+    "cardCount": 6,
+    "layout": "3x2 grid",
+    "cardStructure": "Thumbnail + category + heading + description",
+    "playButton": "Overlay icon on thumbnails",
+    "aspectRatio": "16:9 video format"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 3,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

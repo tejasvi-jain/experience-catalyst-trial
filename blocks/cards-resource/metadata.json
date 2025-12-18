@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-resource",
+  "baseBlock": "cards",
+  "createdDate": "2025-12-18",
+  "purpose": "Resource cards with images, descriptions, and date metadata",
+  "visualCharacteristics": {
+    "cardCount": 3,
+    "layout": "3-column grid",
+    "cardStructure": "Image + heading + description + date + link",
+    "dateDisplay": "Publication date shown",
+    "imageSize": "Medium"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 8,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

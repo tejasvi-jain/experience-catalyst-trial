@@ -1,0 +1,20 @@
+{
+  "variantName": "columns-cta",
+  "baseBlock": "columns",
+  "createdDate": "2025-12-18",
+  "purpose": "Call-to-action columns with intro text, optimized for dark backgrounds",
+  "visualCharacteristics": {
+    "columnCount": 2,
+    "layout": "2-column with intro text above",
+    "columnStructure": "Heading + link",
+    "darkTheme": "Supports dark background styling",
+    "introText": "Eyebrow + heading above columns"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 9,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

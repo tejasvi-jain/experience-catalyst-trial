@@ -1,0 +1,19 @@
+{
+  "variantName": "hero-robotics",
+  "baseBlock": "hero",
+  "createdDate": "2025-12-18",
+  "purpose": "Hero block for NVIDIA robotics page with full-width background image",
+  "visualCharacteristics": {
+    "backgroundImage": "Full-width robotics laboratory",
+    "textColor": "White on dark overlay",
+    "ctaButton": "Green NVIDIA brand color",
+    "layout": "Full-bleed with overlaid content"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 1,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}

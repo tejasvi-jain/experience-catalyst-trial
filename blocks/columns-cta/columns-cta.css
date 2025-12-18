@@ -1,0 +1,70 @@
+.columns-cta > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns-cta img {
+  width: 100%;
+}
+
+.columns-cta > div > div {
+  order: 1;
+  padding: 32px;
+  text-align: center;
+}
+
+.columns-cta > div > .columns-cta-img-col {
+  order: 0;
+}
+
+.columns-cta > div > .columns-cta-img-col img {
+  display: block;
+}
+
+.columns-cta h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: inherit;
+}
+
+.columns-cta p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.columns-cta a {
+  color: #76b900;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.columns-cta a:hover {
+  text-decoration: underline;
+}
+
+/* Dark theme support */
+.columns-cta-container[style*="dark"] .columns-cta,
+.columns-cta-container.dark .columns-cta {
+  color: white;
+}
+
+.columns-cta-container[style*="dark"] .columns-cta a,
+.columns-cta-container.dark .columns-cta a {
+  color: #76b900;
+}
+
+@media (width >= 900px) {
+  .columns-cta > div {
+    align-items: stretch;
+    flex-direction: unset;
+    gap: 48px;
+  }
+
+  .columns-cta > div > div {
+    flex: 1;
+    order: unset;
+  }
+}

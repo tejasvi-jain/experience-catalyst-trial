@@ -1,0 +1,19 @@
+{
+  "variantName": "columns-text",
+  "baseBlock": "columns",
+  "createdDate": "2025-12-18",
+  "purpose": "Text-focused columns without images",
+  "visualCharacteristics": {
+    "columnCount": 2,
+    "layout": "2-column side-by-side",
+    "columnStructure": "Heading + paragraph + link",
+    "styling": "Text-only with background boxes"
+  },
+  "usageHistory": [
+    {
+      "page": "/en-us/industries/robotics/index",
+      "section": 7,
+      "migrationDate": "2025-12-18"
+    }
+  ]
+}
